@@ -4,7 +4,10 @@
 
 Yuanhao的经验:
 
+GetYourGuide(Junior SDE): 一面LeetCode medium题, 二面Code review结合SOLID原则
 
+Workday(Junior SDE): 一面LeetCode medium题, 二面LeetCode medium题
 
-?的经验
+TODO
 
+?的经验:
