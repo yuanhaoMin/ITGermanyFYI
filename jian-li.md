@@ -10,7 +10,7 @@ SDE(Software development engineers)的简历风格都比较相似, 简历templat
 
 #### Step2: 关注各种SDE简历教程
 
-Todo
+TODO
 
 #### Step3(Optional but recommended): 润色简历
 
