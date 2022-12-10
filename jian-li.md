@@ -1,5 +1,7 @@
 # 简历
 
+别忘记添加你的想法😊
+
 ### <mark style="background-color:green;">如何从零创建一份简历?</mark>
 
 #### Step1: 找到好模板
@@ -10,7 +12,7 @@ SDE(Software development engineers)的简历风格都比较相似, 简历templat
 
 #### Step2: 关注各种SDE简历教程
 
-Todo
+TODO
 
 #### Step3(Optional but recommended): 润色简历
 
