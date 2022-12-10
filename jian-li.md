@@ -19,3 +19,7 @@ Todo
 1. 大部分学校都会提供包含Lebenslauf Korrektur的免费求职帮助服务.
 2. 各种简历润色网站, 但是质量收费参差不齐, 自行甄别.
 3. 找熟人, 群里老哥帮忙.
+
+### <mark style="background-color:orange;">怎么让别人看到我的简历?</mark>
+
+善于利用领英. TODO
